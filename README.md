@@ -1,5 +1,6 @@
 # VerificaDescontoPortugol
 Aplicação para verificar desconto em portugol
+
 algoritmo "VerifcarDesconto"
 var
 sal, des1, des2:real
