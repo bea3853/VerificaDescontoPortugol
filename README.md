@@ -1,25 +1,30 @@
-# VerificaDescontoPortugol
-Aplicação para verificar desconto em portugol
+# Verificação de desconto de acordom com o seu salário.
 
-algoritmo "VerifcarDesconto"
-var
-sal, des1, des2:real
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/VerificaDescontoPortugol/new/main)
 
-inicio
+  
 
-escreval ("Apenas para clientes que ganham entre R$1000.00 e 4999.99")
+#  Sobre o projeto
 
-escreval ("Digite o valor do seu salário:")
-leia (sal)
+  
 
+Em Portugol, Aplicação que verifica  desconto do usuário de acordo com o
+seu salário. 
 
-se (sal<2999.99)entao
-des1:= (sal/100*30)
-escreval ("Você tem 30% de desconto sobre o seu salário, ou seja R$", des1:1:2)
-senao se (sal>2999.99) entao
-des2:= (sal/100*35)
-escreval ("Você tem 35% de desconto sobre o seu salário, ou seja R$", des2:1:2)
-fimse
+  
+#  Tecnologias utilizadas
+
+##  Visualg
+
+- Portugol
 
 
-fimalgoritmo
+#  Autor
+
+  
+
+Beatriz Alves
+
+  
+
+https://www.linkedin.com/in/beatriz2071/
