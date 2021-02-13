@@ -1,6 +1,6 @@
 # Verificação de desconto de acordom com o seu salário.
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/VerificaDescontoPortugol/new/main)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/VerificaDescontoPortugol/blob/main/LICENSE)
 
   
 
